@@ -23,12 +23,6 @@
       },
       "external_specs": [
         {
-          "external_spec": "vLEI",
-          "gh_page": "https://henkvancann.github.io/vlei-glossary/",
-          "url": "https://github.com/henkvancann/vlei-glossary",
-          "terms_dir": "spec/terms-definitions"
-        },
-        {
           "external_spec": "test",
           "gh_page": "https://kordwarshuis.github.io/spec-up-xref-test-1/",
           "url": "https://github.com/kordwarshuis/spec-up-xref-test-1",
