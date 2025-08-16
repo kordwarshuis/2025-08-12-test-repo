@@ -24,8 +24,8 @@
       "external_specs": [
         {
           "external_spec": "test",
-          "gh_page": "https://kordwarshuis.github.io/spec-up-xref-test-1/",
-          "url": "https://github.com/kordwarshuis/spec-up-xref-test-1",
+          "gh_page": "https://blockchainbird.github.io/spec-up-xref-test-1/",
+          "url": "https://github.com/blockchainbird/spec-up-xref-test-1",
           "terms_dir": "spec/terms-definitions"
         }
       ],
